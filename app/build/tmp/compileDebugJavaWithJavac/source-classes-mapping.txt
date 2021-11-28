@@ -1,0 +1,50 @@
+com/example/freshmanutilites/LoginActivity.java
+ com.example.freshmanutilites.LoginActivity
+ com.example.freshmanutilites.LoginActivity$1
+ com.example.freshmanutilites.LoginActivity$2
+ com.example.freshmanutilites.LoginActivity$3
+ com.example.freshmanutilites.LoginActivity$3$1
+ com.example.freshmanutilites.LoginActivity$4
+ com.example.freshmanutilites.LoginActivity$4$1
+ com.example.freshmanutilites.LoginActivity$4$2
+ com.example.freshmanutilites.LoginActivity$4$2$1
+ com.example.freshmanutilites.LoginActivity$4$2$2
+com/example/freshmanutilites/RegisterActivity.java
+ com.example.freshmanutilites.RegisterActivity
+ com.example.freshmanutilites.RegisterActivity$1
+ com.example.freshmanutilites.RegisterActivity$2
+ com.example.freshmanutilites.RegisterActivity$2$1
+ com.example.freshmanutilites.RegisterActivity$3
+com/example/freshmanutilites/Fragment4.java
+ com.example.freshmanutilites.Fragment4
+com/example/freshmanutilites/SplashScreenActivity.java
+ com.example.freshmanutilites.SplashScreenActivity
+ com.example.freshmanutilites.SplashScreenActivity$1
+com/example/freshmanutilites/MainActivity.java
+ com.example.freshmanutilites.MainActivity
+ com.example.freshmanutilites.MainActivity$1
+com/example/freshmanutilites/Fragment2.java
+ com.example.freshmanutilites.Fragment2
+com/example/freshmanutilites/VarsityActivity.java
+ com.example.freshmanutilites.VarsityActivity
+com/example/freshmanutilites/QuestionsMember.java
+ com.example.freshmanutilites.QuestionsMember
+com/example/freshmanutilites/Questions.java
+ com.example.freshmanutilites.Questions
+ com.example.freshmanutilites.Questions$1
+com/example/freshmanutilites/AllUserInfo.java
+ com.example.freshmanutilites.AllUserInfo
+com/example/freshmanutilites/Fragment3.java
+ com.example.freshmanutilites.Fragment3
+com/example/freshmanutilites/BuildConfig.java
+ com.example.freshmanutilites.BuildConfig
+com/example/freshmanutilites/Fragment1.java
+ com.example.freshmanutilites.Fragment1
+com/example/freshmanutilites/CreateProfileActivity.java
+ com.example.freshmanutilites.CreateProfileActivity
+ com.example.freshmanutilites.CreateProfileActivity$1
+ com.example.freshmanutilites.CreateProfileActivity$2
+ com.example.freshmanutilites.CreateProfileActivity$3
+ com.example.freshmanutilites.CreateProfileActivity$3$1
+ com.example.freshmanutilites.CreateProfileActivity$3$1$1
+ com.example.freshmanutilites.CreateProfileActivity$4
